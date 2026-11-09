@@ -1,0 +1,8 @@
+{
+  "name": "London",
+  "description": "An open-air miniature 3D London world builder in Three.js featuring Big Ben, Buckingham Palace, Tower Bridge, The London Eye, St. Paul's Cathedral, and universal London weather.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
